@@ -1,2 +1,3 @@
 feature file text
-cooool
+
+this file was modified in the feature branch)
